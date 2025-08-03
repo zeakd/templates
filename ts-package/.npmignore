@@ -1,0 +1,33 @@
+# Source files
+src/
+tests/
+
+# Config files
+tsconfig.json
+vitest.config.ts
+eslint.config.js
+.gitignore
+.npmignore
+
+# Development
+node_modules/
+coverage/
+*.log
+.env*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.github/
+
+# Temporary
+*.tmp
+*.temp
+*.tsbuildinfo
