@@ -12,6 +12,14 @@ A modern TypeScript package template with:
 - ESLint 9.32 with flat config
 - Full type safety and modern tooling
 
+### Python App (`python-app`)
+A simple Python application template with:
+- Python 3.12+ with modern pyproject.toml
+- uv for fast package management
+- Ruff for linting and formatting
+- pytest for testing
+- Type hints and environment variable support
+
 ## Getting Started
 
 1. Clone this repository
