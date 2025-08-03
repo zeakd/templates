@@ -5,7 +5,7 @@ A modern monorepo template using pnpm workspaces, TypeScript 5.8, ESLint 9 with 
 ## Features
 
 - 🚀 **pnpm workspaces** - Fast, disk space efficient package manager
-- 📦 **TypeScript 5.8** - Latest TypeScript with modern configuration
+- 📦 **TypeScript 5.9** - Latest TypeScript with modern configuration
 - 🎨 **ESLint 9 + @stylistic** - Modern linting and formatting in one tool (no Prettier needed)
 - 🔄 **Changesets** - Version management and changelog generation
 - 📁 **Organized structure** - Clear separation between apps and packages
